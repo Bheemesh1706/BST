@@ -81,7 +81,6 @@ class Tree
 		_pre(node.right)
 
 	end
-
 	def _height(node)
 	
 		if node==null
